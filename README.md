@@ -10,5 +10,6 @@
 
 Vamos conectar e criar algo incrível juntos!
 
-![Python](https://img.shields.io/badge/-Python-blue)
+![Python](caminho/para/imagem/python.png)
+
 
