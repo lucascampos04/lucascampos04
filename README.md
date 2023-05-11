@@ -11,7 +11,7 @@
 Vamos conectar e criar algo incrível juntos!
 
 ![Python](https://img.shields.io/badge/-Python-blue)
-![JavaScript](https://img.shields.io/badge/-Python-blue)
+![JavaScript](https://img.shields.io/badge/-Javascript-blue)
 
 
 
