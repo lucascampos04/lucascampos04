@@ -9,3 +9,6 @@
 📫 Para entrar em contato comigo, você pode enviar um e-mail para: [camposdlucasoli@gmail.com]
 
 Vamos conectar e criar algo incrível juntos!
+
+![Python](https://img.shields.io/badge/-Python-blue)
+
