@@ -1,6 +1,6 @@
 👋 Olá, sou @lucascampos04
 
-👀 Estou interessado em Ciências da Computação.
+👀 Estou cursando Ciências da Computação.
 
 🌱 Atualmente estou aprendendo JavaScript e Python.
 
