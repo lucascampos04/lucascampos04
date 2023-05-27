@@ -10,7 +10,6 @@
 [![Linkedin](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](camposdlucasoli@gmail.com)
 <div>
 <a href="https://github.com/seu-usuário-aqui">
-<img height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucascampos04&layout=compact&langs_count=7&theme=dracula"/>
 <img height="220em" src="https://github-readme-stats.vercel.app/api?username=lucascampos04&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
