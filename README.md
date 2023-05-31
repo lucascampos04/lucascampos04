@@ -1,13 +1,5 @@
-<p align="center">
-  <img src="https://wakatime.com/badge/user/65d2f429-0fff-4030-bb0c-babf96b02db1.svg" alt="waka"> • 
-  <img src="https://komarev.com/ghpvc/?username=lucascampos04&color=blue" alt="lucascampos04"> •  
-  <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/lucascampos04?label=Followers&style=social"> •   
-  <img src="https://img.shields.io/github/stars/lucascampos04?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜">
-</p>
-
 <img src="https://readme-typing-svg.demolab.com?font=Operator+Mono&size=37&duration=2800&pause=2000&color=FAFAFA&center=true&vCenter=true&width=940&height=50&lines=Hey%2C+I'm+Italo+Welcome+to+my+Profile!" align="middle" alt="Hey, I'm Lucas Oliviera Welcome to my Profile! animated typed out">
 <img  src="assests/borderseperator.gif">
-
 
 
 ### Welcome to my GitHub! :grin:
