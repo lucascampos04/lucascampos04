@@ -15,7 +15,6 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lucascampos04&theme=monokai)![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lucascampos04&theme=monokai)
 
-<h2><img src="https://media.giphy.com/media/mpM654sL8gJumwGmAn/giphy.gif" width="30px" height="30px"> Contacts:</h2>
 
 [<img src = "https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">]()
 <a href = "mailto:camposdlucasoli@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -24,6 +23,9 @@
 </a>
  <a id="linkedin" href="https://www.linkedin.com/in/lucascampos04">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+ <a id="instagram" href="https://www.instagram.com/lucasoliveira.04_/?next=%2F">
+    <img src="https://img.shields.io/badge/Instagram-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <h2><img src="https://media.giphy.com/media/tZIxqCNZhC9YKasYf7/giphy.gif" width="35px" height="35px">Skills:</h2>
