@@ -59,11 +59,6 @@
 </div> <br>
 
 
-## :snake: Activities :
-
-![Snake animation](https://github.com/lucascampos04/lucascampos04/blob/output/github-contribution-grid-snake.svg)
-
-
 
 
 
