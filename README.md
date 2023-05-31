@@ -1,7 +1,3 @@
-<img src="https://readme-typing-svg.demolab.com?font=Operator+Mono&size=37&duration=2800&pause=2000&color=FAFAFA&center=true&vCenter=true&width=940&height=50&lines=Hey%2C+I'm+Italo+Welcome+to+my+Profile!" align="middle" alt="Hey, I'm Lucas Oliviera Welcome to my Profile! animated typed out">
-<img  src="assests/borderseperator.gif">
-
-
 ### Welcome to my GitHub! :grin:
    
 #### Hello, my name is Lucas Oliveira and I am a computer science student at the University of July, I am looking for an internship related to Data Science and Web Development.
