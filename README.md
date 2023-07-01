@@ -43,7 +43,7 @@
     </td>
      <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" />
+        <img src="https://techstack-generator.vercel.app/javascript-icon.svg" alt="icon" width="65" height="65" />
       </a>
     </td>
      <td align="center"  width="96">
