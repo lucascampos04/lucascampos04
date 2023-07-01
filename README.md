@@ -47,6 +47,12 @@
       </a>
         <br>JavaScript
     </td>
+     <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="[https://techstack-generator.vercel.app/js-icon.svg](https://icons8.com/icon/hsPbhkOH4FMe/node-js)" alt="icon" width="65" height="65" />
+      </a>
+        <br>NodeJS
+    </td>
      <td align="center"  width="96">
         <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
       <br>HTML
