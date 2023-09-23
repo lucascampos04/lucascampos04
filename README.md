@@ -7,13 +7,6 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lucascampos04&theme=monokai)
 <br> 
 
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=lucascampos04&theme=monokai&hide_border=false)|![lucascampos04's Stats](https://github-readme-stats.vercel.app/api?username=lucascampos04&theme=monokai&show_icons=true&hide_border=true&count_private=true)
-<br>
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lucascampos04&theme=monokai)![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lucascampos04&theme=monokai)
-
-
 [<img src = "https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/lucasoliveira.04_/?next=%2F)
 <a href = "mailto:camposdlucasoli@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a id="twitter" href="https://twitter.com/lucasoli04">
