@@ -4,7 +4,7 @@
 
 ## Status:
 
-|![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lucascampos04&theme=monokai)|![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lucascampos04&theme=monokai&utcOffset=-3)|
+|![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lucascampos04&theme=monokai)
 |---|---|
 <br> 
 
