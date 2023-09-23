@@ -5,7 +5,6 @@
 ## Status:
 
 |![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lucascampos04&theme=monokai)
-|---|---|
 <br> 
 
 
