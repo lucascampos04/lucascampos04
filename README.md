@@ -8,8 +8,7 @@
 <br> 
 
 
-|![](https://github-readme-streak-stats.herokuapp.com/?user=lucascampos04&theme=monokai&hide_border=false)|![lucascampos04's Stats](https://github-readme-stats.vercel.app/api?username=lucascampos04&theme=monokai&show_icons=true&hide_border=true&count_private=true)
-|---|---|
+![](https://github-readme-streak-stats.herokuapp.com/?user=lucascampos04&theme=monokai&hide_border=false)|![lucascampos04's Stats](https://github-readme-stats.vercel.app/api?username=lucascampos04&theme=monokai&show_icons=true&hide_border=true&count_private=true)
 <br>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lucascampos04&theme=monokai)![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lucascampos04&theme=monokai)
