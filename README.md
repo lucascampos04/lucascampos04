@@ -3,9 +3,8 @@
 #### Hello, my name is Lucas Oliveira and I am a computer science student at the University of July, I am looking for an internship.
 
 ## Status:
-<div style=margin-left=10px;>
+
    ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lucascampos04&theme=monokai)
-</div>
 <br> 
 
 
