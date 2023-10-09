@@ -7,6 +7,12 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lucascampos04&theme=monokai)
 <br> 
 
+<div>
+<a href="https://github.com/lucascampos04">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucascampos04&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucascampos04&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
+
 [<img src = "https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/lucasoliveira.04_/?next=%2F)
 <a href = "mailto:camposdlucasoli@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a id="twitter" href="https://twitter.com/lucasoli04">
