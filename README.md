@@ -11,11 +11,7 @@
 <a href="https://github.com/lucascampos04">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucascampos04&layout=compact&langs_count=7&theme=dracula"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucascampos04&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
-|![](https://github-readme-streak-stats.herokuapp.com/?user=lucascampos04&theme=moltack&hide_border=false)|![lucascampos04 Stats](https://github-readme-stats.vercel.app/api?username=lucascampos04&theme=dracula&show_icons=true&hide_border=true&count_private=true)
-|---|---|
-<br>
-
+   
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lucascampos04&theme=moltack)![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lucascampos04&theme=dracula)
 
 
