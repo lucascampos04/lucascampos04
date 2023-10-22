@@ -46,8 +46,7 @@
     </td>
      <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="![image](https://github.com/lucascampos04/lucascampos04/assets/128653016/96550204-6b4b-4fef-86e0-50d4ebb2d433)
-" alt="icon" width="65" height="65" />
+        <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/NodeJS-Dark.svg" alt="icon" width="65" height="65" />
       </a>
         <br>NodeJs
     </td>
