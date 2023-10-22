@@ -63,6 +63,7 @@
       </a>
         <br>Java
     </td>
+     <br>
      <td align="center" width="96">
       <a href="#macropower-tech">
         <img src="https://user-images.githubusercontent.com/25181517/183891303-41f257f8-6b3d-487c-aa56-c497b880d0fb.png" alt="icon" width="65" height="65" />
