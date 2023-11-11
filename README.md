@@ -1,8 +1,8 @@
 ### Welcome to my GitHub! :grin:
    
-<h1>
+<h2>
    Hello, my name is Lucas Oliveira and I am a computer science student at the University of July, I am looking for an internship.
-</h1> 
+</h2> 
 
 ## Status:
 
